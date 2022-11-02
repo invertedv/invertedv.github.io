@@ -13,19 +13,18 @@ services, network TV, and tech.
 I started programming way back when in Pascal as an intern for 
 [MDSI](https://en.wikipedia.org/wiki/Applicon).  My project was to write a spelling checker!
 
-I ended up earning a PhD from Texas A&M with an emphasis in statistical computing.
+I ended up earning a PhD in statistics from Texas A&M with an emphasis in statistical computing.
 
 I've written user applications in VB, VBA (*sigh*, yes this is possible) and Python.  These days
-I write in Go whenever possible.  These apps have generally been a delivery system for models that
+I write in Go whenever possible.  My apps have generally been a delivery system for models that
 I've built.
 
-Being a statistician, there's been plenty of SAS and R as well.
+Being a statistician, there's been plenty of SAS and R/Splus,  as well.
 
 When I joined Google in 2018, I was the only data scientist hired
 through the [Rabbit Hole](https://thehustle.co/the-secret-google-interview-that-landed-me-a-job/).
 
-
-Here's my profile on [LinkedIn](www.linkedin.com/in/will-alexander-data-scientist).
+Here's my profile on [LinkedIn](https://www.linkedin.com/in/will-alexander-data-scientist).
 
 ### Contact me
 
