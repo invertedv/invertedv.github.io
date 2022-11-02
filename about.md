@@ -30,3 +30,4 @@ Here's my profile on [LinkedIn](https://www.linkedin.com/in/will-alexander-data-
 
 [will@invertedv.com](mailto:will@invertedv.com)
 
+### About [InvertedV]({ site.baseurl }/invertedv.html)
