@@ -18,6 +18,6 @@ invertedv ticks *almost* all these boxes.  It turns out to be a bit harder to te
 will@invertedv.com than I thought. I've had people ask where the upside down V is on the keyboard.
 Oh, well.
 
-I liked it, too, because I though it lended itself to a nice icon--thank you
+I liked it, too, because I thought it lended itself to a nice icon--thank you
 [midjourney](https://midjourney.com)!.
 
