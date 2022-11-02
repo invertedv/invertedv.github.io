@@ -13,7 +13,12 @@ services, network TV, and tech.
 I started programming way-back-when in Pascal as an intern for 
 [MDSI](https://en.wikipedia.org/wiki/Applicon).  My project was to write a spelling checker!
 
-I ended up earning a PhD in statistics from Texas A&M with an emphasis in statistical computing.
+I earned a PhD in statistics from Texas A&M with an emphasis in statistical computing.
+While at A&M, I wrote MATRIX in MS Pascal and assembly for MS DOS. It was
+an interpretted matrix language (think R but at the time New S was under development at 
+Bell Labs). The source code and executable are 
+[here](https://www.dropbox.com/sh/uhhz1ahssjtlx4z/AAC4g3BxrQ6tgUwSoryqJ5ona?dl=0).
+It will run under DoxBox.
 
 I've written user applications in VB, VBA (*sigh*, yes this is possible) and Python.  These days
 I write in Go whenever possible.  My apps have generally been a delivery system for models that
