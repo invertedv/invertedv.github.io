@@ -10,7 +10,7 @@ services, network TV, and tech.
 
 ### More Information
 
-I started programming way back when in Pascal as an intern for 
+I started programming way-back-when in Pascal as an intern for 
 [MDSI](https://en.wikipedia.org/wiki/Applicon).  My project was to write a spelling checker!
 
 I ended up earning a PhD in statistics from Texas A&M with an emphasis in statistical computing.
